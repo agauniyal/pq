@@ -1,8 +1,3 @@
-# pq
-
-Different priority queue implementations
-
-```cpp
 #include "include/manual_heap-pq.hpp"
 #include <iostream>
 
@@ -22,4 +17,3 @@ int main()
         std::cout << "Intentional bad access after 6 elements!\n";
     }
 }
-```
